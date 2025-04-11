@@ -1,0 +1,37 @@
+[
+    {
+        "title": "The Silent Code",
+        "author": "Elena Moore",
+        "year": 2021,
+        "genre": "Tech Thriller",
+        "read": true
+    },
+    {
+        "title": "Dreams of Dust",
+        "author": "Rayen Malik",
+        "year": 2018,
+        "genre": "Post-Apocalyptic",
+        "read": false
+    },
+    {
+        "title": "Midnight Library",
+        "author": "Norah Flint",
+        "year": 2020,
+        "genre": "Fantasy",
+        "read": true
+    },
+    {
+        "title": "Whispers in the Fog",
+        "author": "Kiran Das",
+        "year": 2017,
+        "genre": "Mystery",
+        "read": true
+    },
+    {
+        "title": "Code & Chaos",
+        "author": "Adeel Raza",
+        "year": 2023,
+        "genre": "Science Fiction",
+        "read": false
+    }
+]
